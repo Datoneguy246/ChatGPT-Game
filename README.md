@@ -8,7 +8,7 @@ Honestly I'm kinda freaking out that it came out so well. It's a simple, if not 
 
 Sure! If you have the LÖVE2D engine installed on your system you can download this project and run it on your system.
 
-You can also play my build of it in your browser [here](datoneguy246.github.io/ChatGPT-Game)!
+You can also play my build of it in your browser [here](https://datoneguy246.github.io/ChatGPT-Game)!
 
 ---
 ### Resources used:
