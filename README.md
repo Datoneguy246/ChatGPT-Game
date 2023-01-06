@@ -1,5 +1,5 @@
 ## ChatGPT made a game
-
+*I didn't write any of this code. Skynet did it all.*
 ---
 
 Honestly I'm kinda freaking out that it came out so well. It's a simple, if not slightly buggy, shooter game made in LÖVE2D (I'm on a bit of a Lua kick lately). It's really cool.
